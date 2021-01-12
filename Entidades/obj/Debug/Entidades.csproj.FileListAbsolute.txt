@@ -1,0 +1,15 @@
+C:\Users\alumnos\Desktop\HospitalTF\Entidades\bin\Debug\Entidades.dll
+C:\Users\alumnos\Desktop\HospitalTF\Entidades\bin\Debug\Entidades.pdb
+C:\Users\alumnos\Desktop\HospitalTF\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\alumnos\Desktop\HospitalTF\Entidades\obj\Debug\Entidades.dll
+C:\Users\alumnos\Desktop\HospitalTF\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Alexis\Downloads\HospitalTF\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alexis\Downloads\HospitalTF\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alexis\Downloads\HospitalTF\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Alexis\Downloads\HospitalTF\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alexis\Downloads\HospitalTF\Entidades\obj\Debug\Entidades.pdb
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\Entidades\bin\Debug\Entidades.dll
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\Entidades\bin\Debug\Entidades.pdb
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\Entidades\obj\Debug\Entidades.dll
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\Entidades\obj\Debug\Entidades.pdb

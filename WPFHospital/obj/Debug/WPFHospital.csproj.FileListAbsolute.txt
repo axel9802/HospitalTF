@@ -1,0 +1,3 @@
+C:\Users\AXEL\Desktop\Funda\ProjectsFunda\HospitalTF\WPFHospital\bin\Debug\WPFHospital.exe.config
+C:\Users\AXEL\Desktop\HospitalTF\WPFHospital\bin\Debug\WPFHospital.exe.config
+C:\Users\alumnos\Desktop\HospitalTF\WPFHospital\bin\Debug\WPFHospital.exe.config

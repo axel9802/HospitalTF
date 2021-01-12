@@ -1,0 +1,77 @@
+C:\Users\alumnos\Desktop\HospitalTF\FrmHospital\bin\Debug\FrmHospital.exe.config
+C:\Users\alumnos\Desktop\HospitalTF\FrmHospital\bin\Debug\FrmHospital.exe
+C:\Users\alumnos\Desktop\HospitalTF\FrmHospital\bin\Debug\FrmHospital.pdb
+C:\Users\alumnos\Desktop\HospitalTF\FrmHospital\bin\Debug\Entidades.dll
+C:\Users\alumnos\Desktop\HospitalTF\FrmHospital\bin\Debug\Negocio.dll
+C:\Users\alumnos\Desktop\HospitalTF\FrmHospital\bin\Debug\Datos.dll
+C:\Users\alumnos\Desktop\HospitalTF\FrmHospital\bin\Debug\Entidades.pdb
+C:\Users\alumnos\Desktop\HospitalTF\FrmHospital\bin\Debug\Negocio.pdb
+C:\Users\alumnos\Desktop\HospitalTF\FrmHospital\bin\Debug\Datos.pdb
+C:\Users\alumnos\Desktop\HospitalTF\FrmHospital\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\alumnos\Desktop\HospitalTF\FrmHospital\obj\Debug\FrmHospital.Form1.resources
+C:\Users\alumnos\Desktop\HospitalTF\FrmHospital\obj\Debug\FrmHospital.FrmPaciente.resources
+C:\Users\alumnos\Desktop\HospitalTF\FrmHospital\obj\Debug\FrmHospital.LoginHospital.resources
+C:\Users\alumnos\Desktop\HospitalTF\FrmHospital\obj\Debug\FrmHospital.Properties.Resources.resources
+C:\Users\alumnos\Desktop\HospitalTF\FrmHospital\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\alumnos\Desktop\HospitalTF\FrmHospital\obj\Debug\FrmHospital.exe
+C:\Users\alumnos\Desktop\HospitalTF\FrmHospital\obj\Debug\FrmHospital.pdb
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\bin\Debug\FrmHospital.exe.config
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\obj\Debug\FrmHospital.exe
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\obj\Debug\FrmHospital.pdb
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\bin\Debug\FrmHospital.exe
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\bin\Debug\FrmHospital.pdb
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\bin\Debug\Entidades.dll
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\bin\Debug\Negocio.dll
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\bin\Debug\Datos.dll
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\bin\Debug\Entidades.pdb
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\bin\Debug\Negocio.pdb
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\bin\Debug\Datos.pdb
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\obj\Debug\FrmHospital.Form1.resources
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\obj\Debug\FrmHospital.FrmPaciente.resources
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\obj\Debug\FrmHospital.LoginHospital.resources
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\obj\Debug\FrmHospital.Properties.Resources.resources
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\obj\Debug\FrmHospital.FrmCitaMedica.resources
+C:\Users\Alexis\Downloads\HospitalTF\FrmHospital\obj\Debug\FrmHospital.FrmDoctor.resources
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\bin\Debug\FrmHospital.exe.config
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\bin\Debug\FrmHospital.exe
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\bin\Debug\FrmHospital.pdb
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\bin\Debug\Entidades.dll
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\bin\Debug\Negocio.dll
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\bin\Debug\Datos.dll
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\bin\Debug\Entidades.pdb
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\bin\Debug\Negocio.pdb
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\bin\Debug\Datos.pdb
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\obj\Debug\FrmHospital.Form1.resources
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\obj\Debug\FrmHospital.FrmCitaMedica.resources
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\obj\Debug\FrmHospital.FrmDoctor.resources
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\obj\Debug\FrmHospital.FrmPaciente.resources
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\obj\Debug\FrmHospital.LoginHospital.resources
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\obj\Debug\FrmHospital.Properties.Resources.resources
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\obj\Debug\FrmHospital.exe
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\obj\Debug\FrmHospital.pdb
+C:\Users\Alexis\Downloads\TF_201517792\HospitalTF\FrmHospital\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Cesar Rojas Savedra\Desktop\archivos rar\HospitalTF\HospitalTF\FrmHospital\bin\Debug\FrmHospital.exe.config
+C:\Users\Cesar Rojas Savedra\Desktop\archivos rar\HospitalTF\HospitalTF\FrmHospital\obj\Debug\FrmHospital.exe
+C:\Users\Cesar Rojas Savedra\Desktop\archivos rar\HospitalTF\HospitalTF\FrmHospital\obj\Debug\FrmHospital.pdb
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\bin\Debug\FrmHospital.exe.config
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\bin\Debug\FrmHospital.exe
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\bin\Debug\FrmHospital.pdb
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\bin\Debug\Entidades.dll
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\bin\Debug\Negocio.dll
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\bin\Debug\Datos.dll
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\bin\Debug\Entidades.pdb
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\bin\Debug\Negocio.pdb
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\bin\Debug\Datos.pdb
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\obj\Debug\FrmHospital.Form1.resources
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\obj\Debug\FrmHospital.FrmCitaMedica.resources
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\obj\Debug\FrmHospital.FrmDoctor.resources
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\obj\Debug\FrmHospital.FrmPaciente.resources
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\obj\Debug\FrmHospital.LoginHospital.resources
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\obj\Debug\FrmHospital.Properties.Resources.resources
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\obj\Debug\FrmHospital.exe
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\FrmHospital\obj\Debug\FrmHospital.pdb

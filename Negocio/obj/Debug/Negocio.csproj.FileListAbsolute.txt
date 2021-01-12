@@ -1,0 +1,27 @@
+C:\Users\alumnos\Desktop\HospitalTF\Negocio\bin\Debug\Negocio.dll
+C:\Users\alumnos\Desktop\HospitalTF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\alumnos\Desktop\HospitalTF\Negocio\bin\Debug\Datos.dll
+C:\Users\alumnos\Desktop\HospitalTF\Negocio\bin\Debug\Entidades.dll
+C:\Users\alumnos\Desktop\HospitalTF\Negocio\bin\Debug\Datos.pdb
+C:\Users\alumnos\Desktop\HospitalTF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\alumnos\Desktop\HospitalTF\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\alumnos\Desktop\HospitalTF\Negocio\obj\Debug\Negocio.dll
+C:\Users\alumnos\Desktop\HospitalTF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Alexis\Downloads\HospitalTF\Negocio\bin\Debug\Negocio.dll
+C:\Users\Alexis\Downloads\HospitalTF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Alexis\Downloads\HospitalTF\Negocio\bin\Debug\Datos.dll
+C:\Users\Alexis\Downloads\HospitalTF\Negocio\bin\Debug\Entidades.dll
+C:\Users\Alexis\Downloads\HospitalTF\Negocio\bin\Debug\Datos.pdb
+C:\Users\Alexis\Downloads\HospitalTF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Alexis\Downloads\HospitalTF\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Alexis\Downloads\HospitalTF\Negocio\obj\Debug\Negocio.dll
+C:\Users\Alexis\Downloads\HospitalTF\Negocio\obj\Debug\Negocio.pdb
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\Negocio\bin\Debug\Negocio.dll
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\Negocio\bin\Debug\Datos.dll
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\Negocio\bin\Debug\Entidades.dll
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\Negocio\bin\Debug\Datos.pdb
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\Negocio\obj\Debug\Negocio.dll
+C:\Users\AXEL\Desktop\Cursos Aprobados\Funda\TF_u20161a005\HospitalTF\HospitalTF\Negocio\obj\Debug\Negocio.pdb
